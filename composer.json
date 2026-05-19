@@ -1,0 +1,16 @@
+{
+            "name": "ronroncollado/ws03-php",
+    "description": "Job seeker application",
+    "authors": [
+        {
+            "name": "Ronron Collado",
+            "email": "mcolladojr@neust.edu.ph"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
